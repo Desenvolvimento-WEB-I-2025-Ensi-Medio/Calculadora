@@ -14,3 +14,5 @@ Esta é uma calculadora funcional desenvolvida com HTML, CSS e JavaScript puro, 
 - **HTML5:** Estrutura da interface.
 - **CSS3:** Estilização com tema escuro.
 - **JavaScript:** Lógica da calculadora.
+
+Desenvolvido por **Prof. Karan Luciano**.
