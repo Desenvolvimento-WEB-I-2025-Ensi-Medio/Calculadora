@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
         display.textContent = '0';
       } else if (value === '=') {
         try {
-          currentValue = eval(currentValue).toString();
+          currentValue = parseFloat(eval(currentValue).toFixed(10)).toString();
           display.textContent = currentValue;
         } catch (error) {
           display.textContent = 'Erro';
